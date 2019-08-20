@@ -1,0 +1,1 @@
+leaning notes of the leetcode
